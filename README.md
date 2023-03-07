@@ -1,2 +1,1 @@
-# csc2007-lab03-2023
-Displaying Lists and Activity Lifecycle
+# csc2007-LabQuiz2-CheatSheet
