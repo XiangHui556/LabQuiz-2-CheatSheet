@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/groceryLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="12dp"
+    android:clickable="true">
+
+    <CheckedTextView
+        android:id="@+id/groceryListTextView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:checkMark="?android:attr/textCheckMark"
+        android:checked="false"
+        android:clickable="true"
+        android:gravity="center"
+        android:linksClickable="false"
+        android:textAlignment="textStart"
+        android:textSize="18sp" />
+
+</LinearLayout>

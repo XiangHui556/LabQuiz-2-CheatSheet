@@ -1,0 +1,10 @@
+Totally close and kill the app (not suspend, but kill the app from Settings):
+2023-01-25 18:04:48.524  5316-5316  MainActivity            edu.singaporetech.grocerylist        D  onPause()
+2023-01-25 18:04:49.007  5316-5316  MainActivity            edu.singaporetech.grocerylist        D  onStop()
+
+From a vertical portrait position, do the following in sequential steps:
+2023-01-25 18:05:41.418  5472-5472  MainActivity            edu.singaporetech.grocerylist        D  onPause()
+2023-01-25 18:05:41.421  5472-5472  MainActivity            edu.singaporetech.grocerylist        D  onStop()
+2023-01-25 18:05:41.429  5472-5472  MainActivity            edu.singaporetech.grocerylist        D  onDestroy()
+2023-01-25 18:05:41.478  5472-5472  MainActivity            edu.singaporetech.grocerylist        D  onStart()
+2023-01-25 18:05:41.478  5472-5472  MainActivity            edu.singaporetech.grocerylist        D  onResume()
